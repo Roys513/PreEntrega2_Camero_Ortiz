@@ -115,8 +115,6 @@ footer{
     position: relative;
 }
 
-footer .footer{
-}
 
 footer .icons{
     width: 120px;
@@ -130,6 +128,10 @@ footer .icons{
 footer .icons a{
     font-size: 30px;
     color: #293241;
+}
+
+footer{
+    
 }
 
 footer .priv{
